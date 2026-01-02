@@ -1,0 +1,1 @@
+adb push 1 /data/local/tmp/1.apk

@@ -1,0 +1,1 @@
+adb install 3.apk
